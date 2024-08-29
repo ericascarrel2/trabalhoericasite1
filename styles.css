@@ -1,0 +1,43 @@
+body {
+    color: white;
+    background: green;
+    font-family: "Inconsolata", monospace;
+}
+
+header {
+border-bottom: solid 3px white;
+padding : 20px;
+font-size: 32px;
+}
+
+section {
+background : rgba(68, 104, 75, 0.736);
+padding-bottom: 30px;
+padding-top: 30px;
+display : flex;
+justify-content: center;
+
+}
+
+.chamada-texto {
+margin-right: 20px;
+
+}
+
+h1{
+font-size: 60x;
+}
+
+p{
+    font-size: 20px;
+}
+
+.categoria-videos {
+    display : flex;
+    gap: 20px;
+}
+
+section {
+    padding-right: 10px;
+    padding-left: 10px;
+}
